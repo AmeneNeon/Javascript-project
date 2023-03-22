@@ -1,1 +1,1 @@
-# Javascript-project
+To run the program, go to index.html and -> Open with Live Server
